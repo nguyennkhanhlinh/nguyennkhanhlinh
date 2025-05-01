@@ -1,4 +1,14 @@
-## Hi there 👋
+## WELCOM TO MY PAGE👋
+My name is Khanh Linh. I am a student in data science and artificial intelligence. I am passionate about the following topics: Data Analysis, Data Science, and AI.
+## STATS
+![Khanh Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyennkhanhlinh&show_icons=true&theme=dracula)
+
+## MY PROJECTS
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Cafe_Management&theme=dracula)
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Data-Collection-and-Analysis&theme=tokyonight)
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Lending-Club-Loan-Analysis&theme=synthwave)
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Big-Data&theme=onedark)
+
 
 <!--
 **nguyennkhanhlinh/nguyennkhanhlinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
