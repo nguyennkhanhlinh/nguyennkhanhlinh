@@ -1,5 +1,5 @@
 ## WELCOM TO MY PAGE👋👋👋
-My name is Khanh Linh. I am a student in data science and artificial intelligence. I am passionate about the following topics: Data Analysis, Data Science, and AI.
+My name is Khanh Linh. I am a student in data science and artificial intelligence. I am passionate about the following topics: Data Analysis, Data Science and AI.
 ## STATS
 ![Khanh Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyennkhanhlinh&show_icons=true&theme=dracula)
 
