@@ -4,10 +4,11 @@ My name is Khanh Linh. I am a student in data science and artificial intelligenc
 ![Khanh Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyennkhanhlinh&show_icons=true&theme=dracula)
 
 ## MY PROJECTS 💻
-![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Cafe_Management&theme=dracula)
-![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Data-Collection-and-Analysis&theme=tokyonight)
-![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Lending-Club-Loan-Analysis&theme=synthwave)
-![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Big-Data&theme=onedark)
+[![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Cafe_Management&theme=dracula)](https://github.com/nguyennkhanhlinh/Cafe_Management)
+[![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Data-Collection-and-Analysis&theme=tokyonight)](https://github.com/nguyennkhanhlinh/Data-Collection-and-Analysis)
+[![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Lending-Club-Loan-Analysis&theme=synthwave)](https://github.com/nguyennkhanhlinh/Lending-Club-Loan-Analysis)
+[![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Big-Data&theme=onedark)](https://github.com/nguyennkhanhlinh/Big-Data)
+
 
 
 <!--
