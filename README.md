@@ -7,7 +7,7 @@ My name is Khanh Linh. I am a student in data science and artificial intelligenc
 [![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Cafe_Management&theme=dracula)](https://github.com/nguyennkhanhlinh/Cafe_Management)
 [![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Real-Estate-Data-Collecton-and-Analysis&theme=tokyonight)](https://github.com/nguyennkhanhlinh/Data-Collection-and-Analysis)
 [![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Lending-loan-club-Analysis&theme=synthwave)](https://github.com/nguyennkhanhlinh/Lending-loan-club-Analysis)
-[![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Big-Data&theme=onedark)](https://github.com/nguyennkhanhlinh/Big-Data)
+[![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=nguyennkhanhlinh&repo=Predicting-loan-defaults-home-credit&theme=onedark)](https://github.com/nguyennkhanhlinh/Big-Data)
 
 
 
